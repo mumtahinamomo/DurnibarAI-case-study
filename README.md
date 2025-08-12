@@ -50,7 +50,6 @@ The result: even motivated users lose engagement within weeks.
   - Minimalist UI to reduce cognitive load
   - Integrated tracking to build consistent habits
   - Personalized, adaptable motivation features
-- Deliverable: [Needfinding and Empathy Map](research/Needfinding%20%26%20Empathy%20Map.pdf)
 
 
 ### 4.2 User Stories
@@ -58,18 +57,15 @@ Defined based on research insights:
 - As an athlete, I want recovery-aware workout suggestions so I can train without overuse injuries.
 - As a student, I want a simplified logging process so I can maintain my streak without friction.
 - As a trainer, I want culturally inclusive nutrition data so my food logs reflect my actual diet.
-- Deliverable: [User Stories](research/user_stories.pdf/)
 
 ### 4.3 Personas
 Created three personas to guide design decisions:
 - **Noah** — Athlete focused on performance and recovery
 - **Arthur** — Student prioritizing simplicity and accessibility
 - **Zain** — Trainer balancing analytics with cultural inclusivity
-- Deliverable: [Personas](research/personas.pdf/)
 
 ### 4.4 Wireframes
 - Low-fidelity wireframes explored layout, navigation, and content hierarchy before visual styling.
-- Deliverable: [Wireframes PDF](prototype/wireframes)
 
 ### 4.5 Interactive Prototype
 - High-fidelity prototype:
@@ -77,7 +73,6 @@ Created three personas to guide design decisions:
   - Nutrition tracking
   - AI-generated workout plans
   - Streak and progress dashboards
-- Deliverable: [Prototype PDF](prototype/high-fidelity-prototype)
 
 ### 4.6 Usability Testing
 - Conducted in-person task-based testing with NASA TLX cognitive load assessment
