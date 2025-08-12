@@ -50,7 +50,7 @@ The result: even motivated users lose engagement within weeks.
   - Minimalist UI to reduce cognitive load
   - Integrated tracking to build consistent habits
   - Personalized, adaptable motivation features
-- Deliverable: [Needfinding Reflection](research/Needfinding_Reflection.pdf)
+- Deliverable: [Needfinding Reflection](research/Needfinding & Empathy Map.pdf)
 
 ### 4.2 User Stories
 Defined based on research insights:
