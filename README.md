@@ -1,4 +1,4 @@
-# durnibar-case-study
+# DurnibarAI-case-study
 
 > “I am forever untamed, unstoppable,  
 > I am Durnibar(Unstoppable), the indomitable, the undefeated.”  
@@ -95,5 +95,5 @@ The goal is to implement a lightweight, interactive version of Durnibar’s core
 
 ## 6. Conclusion
 
-**Durnibar** is not only a functional solution but a statement of intent: to create a tool that adapts, motivates, and makes users feel included and a part of it, ensuring users remain truly **Durnibarunstoppable)**( in their fitness journey.  
+**Durnibar** is not only a functional solution but a statement of intent: to create a tool that adapts, motivates, and makes users feel included and a part of it, ensuring users remain truly **Durnibar (unstoppable)**( in their fitness journey.  
 By aligning the product philosophy with the meaning of *Durnibar* and the spirit of Nazrul’s poetry, this case study demonstrates how cultural resonance can enhance product vision and engagement.
