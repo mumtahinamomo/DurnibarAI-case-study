@@ -16,11 +16,11 @@ Participants completed tasks in the prototype while verbalizing their thought pr
 
 ### Participant 1: Arthur – Casual Fitness User
 - **Task:** Locate and interpret streak progress; review notifications related to daily fitness goals.  
-- **Raw TLX Results:** [View PDF – TLX Scale Arthur](./Usability%20Testing/TLX_Scale_Arthur.pdf)
+- **Raw TLX Results:** [View PDF – TLXScale Arthur](./TLXScale_Arthur.pdf)
 
 ### Participant 2: Noah – Recovery-Focused Athlete
 - **Task:** View workout progress graphs; explore AI-generated workout recommendations.  
-- **Raw TLX Results:** [View PDF – TLX Scale Noah](./Usability%20Testing/TLX_Scale_Noah.pdf)
+- **Raw TLX Results:** [View PDF – TLXScale Noah](./TLXScale_Noah.pdf)
 
 ---
 
