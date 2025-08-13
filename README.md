@@ -59,13 +59,14 @@ Defined based on research insights:
 - As a trainer, I want culturally inclusive nutrition data so my food logs reflect my actual diet.
 
 ### 4.3 Personas
-Created three personas to guide design decisions:
+Interviewed three persons and created multiple personas to guide design decisions:
 - **Noah** — Athlete focused on performance and recovery
 - **Arthur** — Student prioritizing simplicity and accessibility
 - **Zain** — Trainer balancing analytics with cultural inclusivity
 
 ### 4.4 Wireframes
 - Low-fidelity wireframes explored layout, navigation, and content hierarchy before visual styling.
+- The wireframe were created under a different working title during the project’s early design phase.
 
 ### 4.5 Interactive Prototype
 - High-fidelity prototype:
