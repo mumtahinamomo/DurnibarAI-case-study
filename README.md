@@ -59,7 +59,8 @@ Defined based on research insights:
 - As a trainer, I want culturally inclusive nutrition data so my food logs reflect my actual diet.
 
 ### 4.3 Personas
-Interviewed three persons and created multiple personas to guide design decisions:
+Interviewed three participants and developed multiple personas to inform and guide design decisions.
+The interview participant:
 - **Noah** — Athlete focused on performance and recovery
 - **Arthur** — Student prioritizing simplicity and accessibility
 - **Zain** — Trainer balancing analytics with cultural inclusivity
