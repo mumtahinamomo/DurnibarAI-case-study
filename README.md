@@ -19,5 +19,5 @@ This case study documents the complete  process behind designing **an AI-powered
 - **Research**:  needfinding, personas, user stories (PDFs): [/research](./research)
 - **Prototypes**: wireframes & high-fidelity prototypes: [/prototype](./prototype)
 - **Usability testing**: TLX scales: [/Usability%20Testing](./Usability%20Testing)
-- **MVP stub** → placeholder for a future proof-of-concept: [/mvp](./mvp)
+- **MVP stub**: placeholder for a future proof-of-concept: [/mvp](./mvp)
 
